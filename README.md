@@ -19,12 +19,24 @@
     <br />
   </p>
 </div>
+
 <!-- ABOUT THE PROJECT -->
-## About:
+##  About:
 
 Are you tired to spend a lot of time on the initial setup at the beginning of a project?
 All the boilerplate code adding dependencies, package, etc, this tool will help you.
 
+##  Description:
 
+## Install:
+Clone this repo and run you should have installed nodejs and npm first
 
+```bash
+npm install
+```
+
+## Run 
+```bash
+npm plopjs run
+```
 
