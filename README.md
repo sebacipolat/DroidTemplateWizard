@@ -42,8 +42,39 @@ npm install
 ```
 
 ## Run 
+To start type
 ```bash
 npm plopjs run
 ```
+
+If all run ok you should see the following
+
+![image](https://github.com/sebacipolat/DroidTemplateWizard/assets/1523404/9451b2f5-11ff-4c49-8d21-a73dba7244b4)
+
+The tool will show you two questiosn, "module name" and "package"
+
+module name: will be the name of the project
+
+package: will be the package of the project.
+ie:
+package =  com.droid.example
+
+The app package will be com.droid.example.app and the library inside just com.droid.example
+
+
+## Demo 
+
+![image](https://github.com/sebacipolat/DroidTemplateWizard/assets/1523404/3b084954-01ef-491c-b8a7-14d445044f4a)
+
+into the output folder will create a new folder "spock"
+
+![image](https://github.com/sebacipolat/DroidTemplateWizard/assets/1523404/1d60de17-a824-4ad9-a925-688e7e9bd0e1)
+
+
+With the following sub folders
+![image](https://github.com/sebacipolat/DroidTemplateWizard/assets/1523404/63e19800-0e00-4ff9-9a78-83df26735e62)
+
+![image](https://github.com/sebacipolat/DroidTemplateWizard/assets/1523404/ad33b5b5-21e2-4624-9be2-1d9be059ef64)
+
 
 
