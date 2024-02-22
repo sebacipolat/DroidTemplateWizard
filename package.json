@@ -1,0 +1,19 @@
+{
+  "name": "plopjs",
+  "version": "1.0.0",
+  "description": "Descripción de mi proyecto",
+  "main": "plopfile.js",
+  "scripts": {
+    "plop": "plop"
+  },
+  "keywords": [],
+  "author": "Tu nombre",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "plop": "^2.7.3"
+  },
+  "dependencies": {
+    "debug": "^4.3.4"
+  }
+}
