@@ -19,3 +19,11 @@
     <br />
   </p>
 </div>
+<!-- ABOUT THE PROJECT -->
+## About:
+Are you tired to spend a lot of time on the initial setup at the beginning of a project?
+All the boilerplate code adding dependencies, package, etc, this tool will help you.
+
+
+
+
