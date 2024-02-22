@@ -27,6 +27,12 @@ Are you tired to spend a lot of time on the initial setup at the beginning of a 
 All the boilerplate code adding dependencies, package, etc, this tool will help you.
 
 ##  Description:
+The tool is based on https://plopjs.com/  a Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity.
+
+We define a basic template project located into the template folder.
+
+The project is an simple android app with a android library module inside.
+
 
 ## Install:
 Clone this repo and run you should have installed nodejs and npm first
@@ -39,4 +45,5 @@ npm install
 ```bash
 npm plopjs run
 ```
+
 
