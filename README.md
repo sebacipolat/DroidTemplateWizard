@@ -14,7 +14,7 @@
   <h2 align="center">Droid Template Wizard</h3>
 
   <p align="center">
-    Android template generator based on plopjs
+    Android template project generator based on plopjs
     <br />
     <br />
   </p>
