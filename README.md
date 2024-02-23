@@ -70,8 +70,7 @@ into the output folder will create a new folder "spock"
 
 ![image](https://github.com/sebacipolat/DroidTemplateWizard/assets/1523404/1d60de17-a824-4ad9-a925-688e7e9bd0e1)
 
-
-With the following sub folders:
+The result project will be like this
 
 ![image](https://github.com/sebacipolat/DroidTemplateWizard/assets/1523404/6d6770e4-70c0-44d0-8035-714798407451)
 
