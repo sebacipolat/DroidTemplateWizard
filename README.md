@@ -71,11 +71,8 @@ into the output folder will create a new folder "spock"
 ![image](https://github.com/sebacipolat/DroidTemplateWizard/assets/1523404/1d60de17-a824-4ad9-a925-688e7e9bd0e1)
 
 
-With the following sub folders
-the 
+With the following sub folders:
 
-![image](https://github.com/sebacipolat/DroidTemplateWizard/assets/1523404/63e19800-0e00-4ff9-9a78-83df26735e62)
-
-![image](https://github.com/sebacipolat/DroidTemplateWizard/assets/1523404/ad33b5b5-21e2-4624-9be2-1d9be059ef64)
+![image](https://github.com/sebacipolat/DroidTemplateWizard/assets/1523404/6d6770e4-70c0-44d0-8035-714798407451)
 
 
